@@ -115,7 +115,7 @@
   <!-- Vendor repos -->
   <project path="vendor/gapps" name="android_vendor_gapps" remote="superior-gitlab" clone-depth="1" />
   <project path="vendor/superior" name="android_vendor_superior" remote="RDX" revision="QPR3" />
-  <project path="vendor/support" name="android_vendor_support" remote="superior" />
+  <project path="vendor/support" name="android_vendor_support" remote="RDX" revision="QPR3" />
   <project path="vendor/prebuilts" name="android_vendor_prebuilts" remote="superior" />
   <project path="vendor/prebuilts-superior" name="android_vendor_prebuilts-superior" remote="superior-gitlab" />
 
